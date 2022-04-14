@@ -129,6 +129,7 @@ class DetailPage extends StatelessWidget {
 
                       },
                       icon: Padding(
+
                         padding: const EdgeInsets.only(left: 4),
                         child: Icon(Icons.bookmark_border_rounded),
                       ),
